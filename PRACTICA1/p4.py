@@ -1,0 +1,5 @@
+a = float(input("introduce el valosr de a:"))
+b = float(input("introduce el valosr de b:"))
+c = float(input("introduce el valosr de c:"))
+resultado = 2 * (a / 5 + (4 - b * 3)) % (a + c - 2)
+print("resultado final es :", resultado)
